@@ -1,0 +1,2 @@
+blog:
+  resource: "@CompanyBlogBundle/Resources/config/routing.yml"
